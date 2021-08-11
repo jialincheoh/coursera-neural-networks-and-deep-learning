@@ -2,7 +2,7 @@
 
 ## by deeplearning.ai
 
-### Projects
+### Projects Completed
 
 - Logistic Regression with a Neural Network Mindset
 
